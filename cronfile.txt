@@ -1,0 +1,3 @@
+SHELL=/bin/bash
+* * * * * /home/workstation/bin/2.sh >> /home/workstation/bin/dump1.txt
+* * * * * /home/workstation/bin/2.sh >> /home/workstation/bin/dump1.txt

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+cc /home/workstation/bin/new.c -w -o new && ./new
